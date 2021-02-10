@@ -1,0 +1,39 @@
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
+
+.movies_main {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.legons{
+    margin-top: 30px;
+    
+}
+.legons h1{
+    border-bottom: 1px solid grey;
+    padding: 8px;
+    
+}
+.legons img{
+    border-radius: 20px;
+}
+.legons p{
+    margin-top: 10px;
+}
